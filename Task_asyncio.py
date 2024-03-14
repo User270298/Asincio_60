@@ -1,7 +1,5 @@
 import asyncio
 import aiohttp
-import os
-import time
 import ast
 import aiofiles
 
